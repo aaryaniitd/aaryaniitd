@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aaryan Ahuja | @aaryaniitd
 - 👀 I’m interested in discovering some programming projects
-- 🌱 I’m currently learning Python programming language
+- 🌱 I’m code in Python and can create website using Bottstrap, Flask, HTML, CSS. I am currently learning Machine Learning.
 
 
 <!---
