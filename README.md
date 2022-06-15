@@ -1,6 +1,11 @@
-- 👋 Hi, I’m Aaryan Ahuja | @aaryaniitd
+## 👋 Hi there, I’m Aaryan Ahuja
+
+- 👨‍🎓 I am a Sophomore at Indian Institute of Technology, Delhi.
+- 👨‍💼 I am currently working on a research project in Deep Learning and I code mostly in Python.
 - 👀 I’m interested in discovering some Machine Learning/Deep Learning/AI projects and internships.
-- 🌱 I mostly code in Python and am currently working on a project in Machine Learning. I am also trying my hand at Reinforcement Learning and can also create websites using Flask, HTML, CSS and Bootstrap. 
+- 🌱  I am also trying my hand at Reinforcement Learning and can also create websites using Flask, HTML, CSS and Bootstrap. 
+- 🌐 Reach out to me at LinkedIn: https://www.linkedin.com/in/aaryan-ahuja-ab1515218/
+- 🌟 Fun fact: My departmental major is nowhere associated with ML or even programming.
 
 
 <!---
